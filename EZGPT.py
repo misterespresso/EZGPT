@@ -1,7 +1,7 @@
 from openai import OpenAI
 from pathlib import Path
 
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "")
 
 #Message history array. This is your chats context.
 message_history = []
